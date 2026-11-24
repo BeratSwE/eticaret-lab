@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "NovaTekno Ma\u011faza",
+    "slug": "novatekno-eticaret",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "novatekno",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
